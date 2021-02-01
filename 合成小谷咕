@@ -1,0 +1,9 @@
+git init
+git add.
+git commit -m "nitial commit"
+git config --global user.email"ivankachau@qq.com"
+git config --global user.name"ivanka"
+git commit -m "nitial commit"
+git remote add origin https://github.com/ivankachau/-.git
+git pull origin master --allow-unrelated-histories
+git push -u origin master
